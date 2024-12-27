@@ -37,6 +37,7 @@ Users can click on a charging station to get detailed information, including the
 ### AI Assistant:
 
 ChatBot integrated using CX Genie.
+
 ## Project Structure:
 
 ## Technologies Used
@@ -48,13 +49,18 @@ ChatBot integrated using CX Genie.
 ## User Interface
 
 Light mode:
+
 ![image](https://github.com/user-attachments/assets/cb449020-7c78-4e58-8bb8-baeeb0e6b7cb)
 Dark mode:
+
 ![image](https://github.com/user-attachments/assets/a1398251-7b1a-46d1-8aa5-b8ce3b8dbb8d)
 Map Integration:
+
 ![image](https://github.com/user-attachments/assets/68fe51fb-b3cb-42b8-bbbe-3265427c9cbd)
 
 ChatBot:
+
+
 ![image](https://github.com/user-attachments/assets/af9cef48-15ee-427c-9dae-c397fc0313a3)
 ![image](https://github.com/user-attachments/assets/0908cec7-76a0-4df0-ab0c-269540ba7eb5)
 ![image](https://github.com/user-attachments/assets/d0b891e0-46c1-4861-85d1-af87b1afc22e)
